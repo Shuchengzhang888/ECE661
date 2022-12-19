@@ -1,7 +1,6 @@
-README - Overall
-----------------------------------------------------------------------------------------------------------------
-Our file contains two part: 1) code    2) Result  
-  
+Overall
+---------------------------------------------------------------------------------------------------------------- 
+
 1. code file contains all the implemented methods and models with coresponding names. Some keys or steps are presented in three jupyter notebook file.  
 
 record.py : Two function to save our experiment result and load to print.
@@ -21,7 +20,7 @@ model_attack.py : Implement the model attack.
   
 Some figure and experiments result are reserved in the jupyter notebook file.  
 
-README - Federated Learning
+Federated Learning
 -----------------------------------------------------------------------------------------------------------------
 Standard_FL.ipynb : The Federated Learning and the experiments about impact factors are in the code file.
 The detailed implementation is in the file with detailed instruction and explanation.
@@ -29,7 +28,7 @@ The detailed implementation is in the file with detailed instruction and explana
 
 
 
-README - Data Poisoning Attacks
+Data Poisoning Attacks
 -----------------------------------------------------------------------------------------------------------------
 
 Data_Poisoning_Attack.ipynb : Data poisoning attack process based on standard federated learning.
@@ -47,7 +46,7 @@ Several txt files are included, they record the global model’s validation/test
 Several pre-trained model checkpoints are also included, they can be directly loaded into the notebook and used for model evaluation (validation and testing).  
 
 
-README - Model Poisoning Attacks
+Model Poisoning Attacks
 -----------------------------------------------------------------------------------------------------------------
 
 Model_Poisoning_Attack.ipynb : Model poisoning attack process based on standard federated learning with different type of aggregation.
